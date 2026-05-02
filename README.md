@@ -9,9 +9,9 @@
 
 ![alt icon](https://github.com/ovavova/goit-rdb-fp/blob/main/SQL_FP_02_2.png?raw=true)
 
-![alt icon](https://github.com/ovavova/goit-rdb-fp/blob/main/SQL_FP_02_3.png?raw=true)
-
-![alt icon](https://github.com/ovavova/goit-rdb-fp/blob/main/SQL_FP_02_4.png?raw=true)
+![alt icon](https://github.com/ovavova/goit-rdb-fp/blob/main/SQL_FP_02_3_chk.png?raw=true)
+## перевірка
+![alt icon](https://github.com/ovavova/goit-rdb-fp/blob/main/SQL_FP_02_4chk.png?raw=true)
 
 ----------------------------------------
 #3 MIN MAX AVG 
