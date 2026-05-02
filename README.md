@@ -7,7 +7,7 @@
 
 ![alt icon](https://github.com/ovavova/goit-rdb-fp/blob/main/SQL_FP_02_1.png?raw=true)
 
-![alt icon](https://github.com/ovavova/goit-rdb-fp/blob/main/SQL_FP_02_2.png?raw=true)
+![alt icon](https://github.com/ovavova/goit-rdb-fp/blob/main/SQL_FP_02_2_norm.png?raw=true)
 
 ![alt icon](https://github.com/ovavova/goit-rdb-fp/blob/main/SQL_FP_02_3_chk.png?raw=true)
 ## перевірка
